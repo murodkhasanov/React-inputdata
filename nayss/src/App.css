@@ -1,0 +1,38 @@
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(1, 129, 169, 1) 33%, rgba(1, 123, 163, 1) 72%, rgba(0, 212, 255, 1) 100%);
+}
+
+.App {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(3,10,40,1) 0%, rgba(9,121,84,1) 35%, rgba(5,159,155,1) 62%, rgba(18,140,154,1) 83%, rgba(0,212,255,1) 100%);
+    width: 400px;
+    height: 250px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+input {
+    width: 250px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    left: 23px;
+    top: 50px;
+    background-color: rgb(255, 255, 255);
+}
+h2 {
+    position: relative;
+    left: 25px;
+    top: 50px;
+    color: white;
+}
+button {
+    width: 100px;
+    height: 33px;
+    border-radius: 8px;
+    position: relative;
+    left: 22px;
+    top: 50px;
+    border: none;
+}
